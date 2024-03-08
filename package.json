@@ -1,5 +1,5 @@
 {
-  "name": "@uniswap/universal-router-sdk",
+  "name": "@lvsjack/universal-router-sdk",
   "version": "1.7.1",
   "description": "sdk for integrating with the Universal Router contracts",
   "main": "dist/index.js",
@@ -60,10 +60,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Uniswap/universal-router-sdk.git"
+    "url": "git@github.com:jack-lvsjack/universal-router-sdk.git"
   },
   "bugs": {
-    "url": "https://github.com/Uniswap/universal-router-sdk/issues"
+    "url": "https://github.com/jack-lvsjack/universal-router-sdk/issues"
   },
-  "homepage": "https://github.com/Uniswap/universal-router-sdk#readme"
+  "homepage": "https://github.com/jack-lvsjack/universal-router-sdk#readme"
 }
