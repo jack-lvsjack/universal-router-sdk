@@ -100,11 +100,18 @@ const CHAIN_CONFIGS: { [key: number]: ChainConfig } = {
     creationBlock: 9107268,
   },
 
-    // zkatana
+  // zkatana
   [1261120]: {
     router: '0x515f6D6a22E10f915bA8eaa02EDd53EB3ebcC495',
     weth: '0xd2480162Aa7F02Ead7BF4C127465446150D58452',
     creationBlock: 1452376,
+  },
+
+  // zkEVM
+  [3776]: {
+    router: '0x03E4F5d5158927f8DABbf6d6f13f2C9A4800Ffb9',
+    weth: '0xE9CC37904875B459Fa5D0FE37680d36F1ED55e38',
+    creationBlock: 178698,
   },
 }
 
