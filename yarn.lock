@@ -1530,10 +1530,10 @@
     "@jridgewell/resolve-uri" "3.1.0"
     "@jridgewell/sourcemap-codec" "1.4.14"
 
-"@lvsjack/sdk-core@^4.1.3":
-  version "4.1.3"
-  resolved "https://registry.npmjs.org/@lvsjack/sdk-core/-/sdk-core-4.1.3.tgz#30f882ba0c67691e8a9e9b777d086c49dfd97c6a"
-  integrity sha512-417awGmCAHXknVwWGVU+dKyK48UnDIqHSIm7vfGkpKI4Ls6mKNpTjd7HpP+hGvN20TqsbVBtp+lgSLiC+04AHQ==
+"@lvsjack/sdk-core@^4.1.4":
+  version "4.1.4"
+  resolved "https://registry.npmjs.org/@lvsjack/sdk-core/-/sdk-core-4.1.4.tgz#4a3b1ffb43a8ff65135d93b7e418e6eb7319a95c"
+  integrity sha512-xQ4Q9bdnCGj+nWNYBz+e/upzKh+o0uFFMOP0+yRaTaXRR3fPOu1IDyMdAgmR+n2oJ9xBYZKEUTtSHP0WL3YMIw==
   dependencies:
     "@ethersproject/address" "^5.0.2"
     big.js "^5.2.2"
