@@ -102,7 +102,7 @@ const CHAIN_CONFIGS: { [key: number]: ChainConfig } = {
 
   // zkatana
   [1261120]: {
-    router: '0x515f6D6a22E10f915bA8eaa02EDd53EB3ebcC495',
+    router: '0xE54749c42F8AEF176032517F778121a390817CCd',
     weth: '0xd2480162Aa7F02Ead7BF4C127465446150D58452',
     creationBlock: 1452376,
   },
